@@ -1,0 +1,142 @@
+export const smartWatch = [
+  {
+    id: 1,
+    name: 'Apple Watch Ultra 2 GPS+Cellular with Indigo Alpine Loop - S (49mm Display, Titanium Case',
+    brand: 'Apple',
+    price: 84,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806243/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_0_q1mcfn.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806243/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_0_q1mcfn.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806246/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_1_xqonjz.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806250/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_7_zevptf.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806252/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_9_uqo3mn.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806254/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_10_wglm5u.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806256/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_11_htpsjp.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1716806258/Croma%20Assets/Communication/Wearable%20Devices/Images/301015_12_pbntrh.png',
+    ],
+    details: 'Rugged, capable and built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts with a specialised strap for each. The S9 SiP enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the display. Up to 36 hours of battery life and 72 hours in Low Power Mode.',
+    review:'Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral.This is awesome',
+  },
+  {
+    id: 2,
+    name: 'Apple Watch Series 9 GPS with Midnight Sport Band - M/L (45mm Display, Midnight Aluminium Case)',
+    brand: 'Apple',
+    price: 522,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713212/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_0_bask7w.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713212/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_0_bask7w.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713217/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_1_ehz50s.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713219/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_2_jaimmi.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713223/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_3_eslt4u.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713225/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_4_ik368g.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713226/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_5_p5bsyl.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713229/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_6_mametg.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713232/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_7_ygjchj.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713233/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_8_swlrn9.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713236/Croma%20Assets/Communication/Wearable%20Devices/Images/300965_9_rc4ucg.png',
+    ],
+    details: 'Your essential companion for a healthy life is now even more powerful. The S9 chip enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the screen. Advanced health, safety and activity features provide powerful insights and help when you need it. And redesigned apps in watchOS give you more information at a glance.',
+    review:'An aluminium Apple Watch Series 9 paired with the latest Sport Loop is carbon neutral.',
+  },
+  {
+    id: 3,
+    name: 'Apple Watch SE GPS with Lake Green Sport Loop (44mm Retina LTPO OLED Display, Starlight Aluminium Case)',
+    brand: 'Apple',
+    price: 332,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994942/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_0_ywiztm.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994942/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_0_ywiztm.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994945/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_1_fz4eat.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994947/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_2_tbdk1p.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994948/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_3_rtyvts.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994949/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_4_yci1id.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994952/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_5_c6azo1.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994953/Croma%20Assets/Communication/Wearable%20Devices/Images/309363_6_xqfsj2.png',
+    ],
+    details: 'You can access and interact with notifications and stats effortlessly on the Apple Watch SE 2nd Gen 1.73-inch smartwatch, which sports a vivid 1.73-inch Retina LTPO OLED display. The rectangle dial and sleek design of this smartwatch combine to create a stylish and functional accessory.',
+    review:'This smartwatch boasts built-in Bluetooth v5.3 capabilities, which enables you to call your friends and family without requiring your phone.',
+  },
+  {
+    id: 4,
+    name: 'Apple Watch Series 9 GPS with Red Sport Band - M/L (41mm Display, Red Aluminium Case)',
+    brand:'Apple',
+    price: 300,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713766/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_0_ske5gp.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713766/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_0_ske5gp.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713767/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_1_tba4kc.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713771/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_2_xooofk.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713773/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_3_c8i6qk.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713775/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_4_byfzmk.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713777/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_5_fn7ozt.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713780/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_6_vt4c7n.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713784/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_8_zvwpqs.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713786/Croma%20Assets/Communication/Wearable%20Devices/Images/300673_9_p3dkqg.png',
+    ],
+    details: 'You can access and interact with notifications and stats effortlessly on the Apple Watch SE 2nd Gen 1.73-inch smartwatch, which sports a vivid 1.73-inch Retina LTPO OLED display. The rectangle dial and sleek design of this smartwatch combine to create a stylish and functional accessory.',
+    review:'This smartwatch boasts built-in Bluetooth v5.3 capabilities, which enables you to call your friends and family without requiring your phone.',
+  },
+  {
+    id: 5,
+    name: 'Apple Watch Series 10 GPS with Sport Loop (46mm Retina LTPO3 OLED Display, Rose Gold Aluminium Case)',
+    brand:'Apple',
+    price: 200,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994659/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_0_fhfvpk.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994659/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_0_fhfvpk.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994662/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_1_hctbpc.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994663/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_2_jeeoae.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994665/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_3_cmnm8u.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994667/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_4_k5g1jr.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994669/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_5_os7fb1.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994671/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_6_vqmjuo.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994673/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_7_me8chp.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725994675/Croma%20Assets/Communication/Wearable%20Devices/Images/309474_8_syapym.png',
+    ],
+    details: 'You can enjoy the convenience of having all your notifications, apps, and stats readily accessible on the 1.81-inch Retina LTPO3 OLED display of the Apple Watch Series 10 1.65-inch smartwatch. Moreover, with a rectangle dial, this smartwatch lends your overall look a dash of style.',
+    review:'You can achieve your fitness journey with this smartwatch, as it allows you to track your daily activities like Activity Tracker.',
+  },
+  {
+    id: 6,
+    name: 'SAMSUNG Galaxy Fit3 Smartwatch with 100 Plus Watch Faces (40.9mm AMOLED Display, IP68 Water Resistant, Pink Gold Strap)',
+    brand: 'SAMSUNG ',
+    price: 50,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1709216811/Croma%20Assets/Wearable/Wearable%20Devices/Images/305252_evl3t2.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713068/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_0_gwljol.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713069/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_1_mxtgho.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713073/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_2_ar156v.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713074/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_3_egutcl.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713078/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_4_r1h4je.png',
+    ],
+    details:
+      'Your essential companion for a healthy life is now even more powerful. The S9 chip enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the screen. Advanced health, safety and activity features provide powerful insights and help when you need it. And redesigned apps in watchOS give you more information at a glance.',
+    review:
+      'Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral. This is awesome.',
+  },
+  {
+    id: 7,
+    name: 'SAMSUNG Galaxy Fit3 Smartwatch with 100 Plus Watch Faces (40.9mm AMOLED Display, IP68 Water Resistant, Pink Gold Strap)',
+    brand: 'SAMSUNG ',
+    price: 50,
+    image:
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701199278/Croma%20Assets/Communication/Wearable%20Devices/Images/275937_0_fajw2d.png',
+    images: [
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701199278/Croma%20Assets/Communication/Wearable%20Devices/Images/275937_0_fajw2d.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713069/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_1_mxtgho.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713073/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_2_ar156v.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713074/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_3_egutcl.png',
+      'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694713078/Croma%20Assets/Communication/Wearable%20Devices/Images/300966_4_r1h4je.png',
+    ],
+    details:
+      'Your essential companion for a healthy life is now even more powerful. The S9 chip enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the screen. Advanced health, safety and activity features provide powerful insights and help when you need it. And redesigned apps in watchOS give you more information at a glance.',
+    review:
+      'Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral. This is awesome.',
+  },
+];
